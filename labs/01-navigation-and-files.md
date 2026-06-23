@@ -78,3 +78,7 @@ I successfully created, copied, renamed, listed, and removed files and directori
 * How to list files and folders
 * How to create and remove files and directories
 * How to copy and rename files
+
+## Screenshots
+![Lab 01 ls output](../screenshots/lab01-ls-la.png)
+![Lab 01 folder setup](../screenshots/lab01-folder-created.png)
